@@ -1,7 +1,1 @@
-# Default maintainers and code reviewers:
-srhines@google.com
-pirama@google.com
-chh@google.com
-yikong@google.com
-ndesaulniers@google.com
-yabinc@google.com
+include platform/prebuilts/clang/host/linux-x86:/OWNERS
